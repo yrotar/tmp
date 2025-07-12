@@ -13,7 +13,7 @@
   <version>0.0.1-SNAPSHOT</version>
 
   <properties>
-    <apache.commons.version>3.0</apache.commons.version>
+    <apache.commons.version>3.18.0</apache.commons.version>
   </properties>
 
   <dependencies>
